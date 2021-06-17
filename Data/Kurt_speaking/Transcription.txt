@@ -1,20 +1,36 @@
-wavs/1.wav|It's gone.
-wavs/2.wav|I've finally been prescribed the right stomach medicine after six years of being in constant pain.
-wavs/3.wav|Finally I haven't had a stomach problem for like over a year now.
-wavs/4.wav|No they never figured out what it was I mean.
-wavs/5.wav|Most gastrointestinal doctors don't know anything about stomach diseases.
-wavs/6.wav|They just have a PhD you know.
-wavs/7.wav|They get payed a lot of money for pretending and prescribing you different drugs.
-wavs/8.wav|It's it's a total scam as far as I am concerned.
-wavs/9.wav|I've been going to doctors for six years.
-wavs/10.wav|And I've tried every drug available.
-wavs/11.wav|Except for this one last one it's brand new and it finally worked.
-wavs/12.wav|It isn't a s specific stomach ailment it doesn't have a name or anything.
-wavs/13.wav|It wasn't a matter of finding out what disease I had.
-wavs/14.wav|That's the common term that all doctors call a stomach problem.
-wavs/15.wav|And eventually heal them but I didn't have an ulcer I just had a red irritation on my stomach.
-wavs/16.wav|But I was in pain I mean I was.
-wavs/17.wav|In pain for so long that I didn't care if I was in a band I didn't care if I was alive you know.
-wavs/18.wav|That I was you know suicidal I mean I just didn't wanna live.
-wavs/19.wav|I just thought if I'm gonna die if I'm gonna kill myself I should take some drug.
-wavs/20.wav|I guess I'll become a junkie cause I felt like a junkie every day.
+wavs/01-untitled|It's gone.
+wavs/02-untitled|I've finally been prescribed the right stomach medicine after six years of being in constant pain.
+wavs/03-untitled|Finally I haven't had a stomach problem for like over a year now.
+wavs/04-untitled|No they never figured out what it was I mean.
+wavs/05-untitled|Most gastrointestinal doctors don't know anything about stomach diseases.
+wavs/06-untitled|They just have a PhD you know.
+wavs/07-untitled|They get payed a lot of money for pretending and prescribing you different drugs.
+wavs/08-untitled|It's it's a total scam as far as I am concerned.
+wavs/09-untitled|I've been going to doctors for six years.
+wavs/10-untitled|And I've tried every drug available.
+wavs/11-untitled|Except for this one last one it's brand new and it finally worked.
+wavs/12-untitled|It isn't a s specific stomach ailment it doesn't have a name or anything.
+wavs/13-untitled|It wasn't a matter of finding out what disease I had.
+wavs/14-untitled|That's the common term that all doctors call a stomach problem.
+wavs/15-untitled|And eventually heal them but I didn't have an ulcer I just had a red irritation on my stomach.
+wavs/16-untitled|But I was in pain I mean I was.
+wavs/17-untitled|In pain for so long that I didn't care if I was in a band I didn't care if I was alive you know.
+wavs/18-untitled|That I was you know suicidal I mean I just didn't wanna live.
+wavs/19-untitled|I just thought if I'm gonna die if I'm gonna kill myself I should take some drug.
+wavs/20-untitled|I guess I'll become a junkie cause I felt like a junkie every day.
+wavs/20-untitled|
+wavs/20-untitled|
+wavs/20-untitled|
+wavs/20-untitled|
+wavs/20-untitled|
+wavs/20-untitled|
+wavs/20-untitled|
+wavs/20-untitled|
+wavs/20-untitled|
+wavs/20-untitled|
+wavs/20-untitled|
+wavs/20-untitled|
+wavs/20-untitled|
+wavs/20-untitled|
+wavs/20-untitled|
+wavs/20-untitled|
