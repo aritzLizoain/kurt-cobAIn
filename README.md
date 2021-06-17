@@ -10,16 +10,16 @@
 
 "If my eyes could show my soul,everyone would cry when they saw me smile" - Kurt Cobain
 
-## [:sound:](https://www.dropbox.com/s/5axmqn29thgfuxp/Kurt_speaking_20.wav?dl=0) Kurt talking <span style="font-size:smaller;">(trained on 20 samples)</span>
+### [:sound:](https://www.dropbox.com/s/5axmqn29thgfuxp/Kurt_speaking_20.wav?dl=0) Kurt talking <span style="font-size:smaller;">(trained on 20 samples)</span>
 
-## (not available yet) [:sound:]() Kurt talking <span style="font-size:smaller;">(trained on - samples)</span>
+### (not available yet) [:sound:]() Kurt talking <span style="font-size:smaller;">(trained on - samples)</span>
 
 "Entertain us" - Smells Like Teen Spirit (Nirvana, 1991)
 
-## [:sound:](https://www.dropbox.com/s/y850wk3gjvow545/Kurt_singing_20.wav?dl=0) Kurt singing <span style="font-size:smaller;">(trained on 20 samples)</span>
+### [:sound:](https://www.dropbox.com/s/y850wk3gjvow545/Kurt_singing_20.wav?dl=0) Kurt singing <span style="font-size:smaller;">(trained on 20 samples)</span>
 
-## (not available yet) [:sound:]() Kurt singing <span style="font-size:smaller;">(trained on - samples)</span>
+### (not available yet) [:sound:]() Kurt singing <span style="font-size:smaller;">(trained on - samples)</span>
 
-## (not available yet) [:sound:]() [:movie_camera:]() Save that sh*t - Kurt CobAIn (Lil Peep cover)
+### (not available yet) [:sound:]() [:movie_camera:]() Save that sh*t - Kurt CobAIn (Lil Peep cover)
 
 Audio created using [Tacotron 2](https://github.com/NVIDIA/tacotron2)
