@@ -1,7 +1,7 @@
 # kurt cobAIn
 
 <p align="center">
-<img src="https://github.com/aritzLizoain/kurt_cobAIn/Data/kurt.jpg" width="1300"/>
+<img src="https://github.com/aritzLizoain/kurt_cobAIn/blob/main/Data/kurt.jpeg" width="1300"/>
 </p>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/aritzLizoain/kurt_cobAIn)
