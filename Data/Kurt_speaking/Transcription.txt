@@ -1,36 +1,76 @@
-wavs/01-untitled|It's gone.
-wavs/02-untitled|I've finally been prescribed the right stomach medicine after six years of being in constant pain.
-wavs/03-untitled|Finally I haven't had a stomach problem for like over a year now.
-wavs/04-untitled|No they never figured out what it was I mean.
-wavs/05-untitled|Most gastrointestinal doctors don't know anything about stomach diseases.
-wavs/06-untitled|They just have a PhD you know.
-wavs/07-untitled|They get payed a lot of money for pretending and prescribing you different drugs.
-wavs/08-untitled|It's it's a total scam as far as I am concerned.
-wavs/09-untitled|I've been going to doctors for six years.
-wavs/10-untitled|And I've tried every drug available.
-wavs/11-untitled|Except for this one last one it's brand new and it finally worked.
-wavs/12-untitled|It isn't a s specific stomach ailment it doesn't have a name or anything.
-wavs/13-untitled|It wasn't a matter of finding out what disease I had.
-wavs/14-untitled|That's the common term that all doctors call a stomach problem.
-wavs/15-untitled|And eventually heal them but I didn't have an ulcer I just had a red irritation on my stomach.
-wavs/16-untitled|But I was in pain I mean I was.
-wavs/17-untitled|In pain for so long that I didn't care if I was in a band I didn't care if I was alive you know.
-wavs/18-untitled|That I was you know suicidal I mean I just didn't wanna live.
-wavs/19-untitled|I just thought if I'm gonna die if I'm gonna kill myself I should take some drug.
-wavs/20-untitled|I guess I'll become a junkie cause I felt like a junkie every day.
-wavs/20-untitled|
-wavs/20-untitled|
-wavs/20-untitled|
-wavs/20-untitled|
-wavs/20-untitled|
-wavs/20-untitled|
-wavs/20-untitled|
-wavs/20-untitled|
-wavs/20-untitled|
-wavs/20-untitled|
-wavs/20-untitled|
-wavs/20-untitled|
-wavs/20-untitled|
-wavs/20-untitled|
-wavs/20-untitled|
-wavs/20-untitled|
+wavs/01-untitled.wav|It's gone.
+wavs/02-untitled.wav|I've finally been prescribed the right stomach medicine after six years of being in constant pain.
+wavs/03-untitled.wav|Finally I haven't had a stomach problem for like over a year now.
+wavs/04-untitled.wav|No they never figured out what it was I mean.
+wavs/05-untitled.wav|Most gastrointestinal doctors don't know anything about stomach diseases.
+wavs/06-untitled.wav|They just have a PhD you know.
+wavs/07-untitled.wav|They get payed a lot of money for pretending and prescribing you different drugs.
+wavs/08-untitled.wav|It's it's a total scam as far as I am concerned.
+wavs/09-untitled.wav|I've been going to doctors for six years.
+wavs/10-untitled.wav|And I've tried every drug available.
+wavs/11-untitled.wav|Except for this one last one it's brand new and it finally worked.
+wavs/12-untitled.wav|It isn't a s specific stomach ailment it doesn't have a name or anything.
+wavs/13-untitled.wav|It wasn't a matter of finding out what disease I had.
+wavs/14-untitled.wav|That's the common term that all doctors call a stomach problem.
+wavs/15-untitled.wav|And eventually heal them but I didn't have an ulcer I just had a red irritation on my stomach.
+wavs/16-untitled.wav|But I was in pain I mean I was.
+wavs/17-untitled.wav|In pain for so long that I didn't care if I was in a band I didn't care if I was alive you know.
+wavs/18-untitled.wav|That I was you know suicidal I mean I just didn't wanna live.
+wavs/19-untitled.wav|I just thought if I'm gonna die if I'm gonna kill myself I should take some drug.
+wavs/20-untitled.wav|I guess I'll become a junkie cause I felt like a junkie every day.
+wavs/21-untitled.wav|You know, waking up starving.
+wavs/22-untitled.wav|Forcing myself to eat.
+wavs/23-untitled.wav|Just imagine trying to eat.
+wavs/24-untitled.wav|Just concentrating and just.
+wavs/25-untitled.wav|I'm in pain all the time.
+wavs/26-untitled.wav|And being on tour was a lot worse.
+wavs/27-untitled.wav|About a year ago.
+wavs/28-untitled.wav|Yeah, I mean it although it worked.
+wavs/29-untitled.wav|I mean, I like the video, overall.
+wavs/30-untitled.wav|It wasn't what I pictured in my mind, when I come up with an idea for a video, I want it.
+wavs/31-untitled.wav|To be translated exactly how I see it in my mind.
+wavs/32-untitled.wav|We didn't take enough time.
+wavs/33-untitled.wav|We didn't prepare ourselves.
+wavs/34-untitled.wav|I just remember waking in the day of the shoot.
+wavs/35-untitled.wav|I told them what I wanted, I drew pictures of it, and I walked in and it wasn't what I wanted.
+wavs/36-untitled.wav|Still the kids made the video.
+wavs/37-untitled.wav|And I had to like.
+wavs/38-untitled.wav|There was a lot of really good footage.
+wavs/39-untitled.wav|So I just threw all the spontaneous parts in.
+wavs/40-untitled.wav|Yeah, those were the biggest things.
+wavs/41-untitled.wav|Baby underwater.
+wavs/42-untitled.wav|Overall I'd say.
+wavs/43-untitled.wav|Exactly how I thought of it in my mind.
+wavs/44-untitled.wav|He came up with the idea.
+wavs/45-untitled.wav|It's great to work with somebody that.
+wavs/46-untitled.wav|Can come up with their own ideas too.
+wavs/47-untitled.wav|And just surprise you.
+wavs/48-untitled.wav|Not only come up with the same exact vision that you have.
+wavs/49-untitled.wav|Translate that.
+wavs/50-untitled.wav|And then throwing their own ideas.
+wavs/51-untitled.wav|And that works even better.
+wavs/52-untitled.wav|Because then you have more things to work with.
+wavs/53-untitled.wav|Quite a few hours.
+wavs/54-untitled.wav|Yeah.
+wavs/55-untitled.wav|We failed to.
+wavs/56-untitled.wav|Hire.
+wavs/57-untitled.wav|Puppet people.
+wavs/58-untitled.wav|Who do animation.
+wavs/59-untitled.wav|To get it out in time.
+wavs/60-untitled.wav|Actually we just put it on hold.
+wavs/61-untitled.wav|We're still working on it.
+wavs/62-untitled.wav|We still wanna do something with puppets.
+wavs/63-untitled.wav|Dolls, I've been making dolls for years.
+wavs/64-untitled.wav|The dolls that I make.
+wavs/65-untitled.wav|That's my mind, you know.
+wavs/66-untitled.wav|We're still working on it.
+wavs/67-untitled.wav|It is such a rip-off, it's it's a shameless rip-off.
+wavs/68-untitled.wav|That was terrible.
+wavs/69-untitled.wav|It's a neat video, it's really nice to look at.
+wavs/70-untitled.wav|Oh shameless.
+wavs/71-untitled.wav|It was my idea.
+wavs/72-untitled.wav|I wanna do a video.
+wavs/73-untitled.wav|Something that looked like it was off of live television.
+wavs/74-untitled.wav|And I thought.
+wavs/75-untitled.wav|The best way to do it.
+wavs/76-untitled.wav|Instead of trying to reproduce.
