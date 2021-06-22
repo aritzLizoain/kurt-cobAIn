@@ -12,7 +12,7 @@
 
 ### [:sound:](https://www.dropbox.com/s/5axmqn29thgfuxp/Kurt_speaking_20.wav?dl=0) Kurt talking <span style="font-size:smaller;">(trained on 20 samples)</span>
 
-### (not available yet) [:sound:]() Kurt talking <span style="font-size:smaller;">(trained on - samples)</span>
+### (not available yet) [:sound:]() Kurt talking <span style="font-size:smaller;">(trained on 243 samples)</span>
 
 "Entertain us" - Smells Like Teen Spirit (Nirvana, 1991)
 
