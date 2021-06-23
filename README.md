@@ -8,14 +8,14 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/aritzLizoain/kurt_cobAIn?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/aritzLizoain/kurt_cobAIn?style=social)
 
-"If my eyes could show my soul,everyone would cry when they saw me smile" - Kurt Cobain
-
 ### [:sound:](https://www.dropbox.com/s/5axmqn29thgfuxp/Kurt_speaking_20.wav?dl=0) Kurt talking <span style="font-size:smaller;">(trained on 20 samples)</span>
 
 ### (not available yet) [:sound:]() Kurt talking <span style="font-size:smaller;">(trained on 243 samples)</span>
 
-"Entertain us" - Smells Like Teen Spirit (Nirvana, 1991)
-
 ### [:sound:](https://www.dropbox.com/s/y850wk3gjvow545/Kurt_singing_20.wav?dl=0) Kurt singing <span style="font-size:smaller;">(trained on 20 samples)</span>
+
+**Speaking**: "If my eyes could show my soul,everyone would cry when they saw me smile" - Kurt Cobain
+
+**Singing**: "Entertain us" - Smells Like Teen Spirit (Nirvana, 1991)
 
 Audio created using [Tacotron 2](https://github.com/NVIDIA/tacotron2)
