@@ -18,8 +18,4 @@
 
 ### [:sound:](https://www.dropbox.com/s/y850wk3gjvow545/Kurt_singing_20.wav?dl=0) Kurt singing <span style="font-size:smaller;">(trained on 20 samples)</span>
 
-### (not available yet) [:sound:]() Kurt singing <span style="font-size:smaller;">(trained on - samples)</span>
-
-### (not available yet) [:sound:]() [:movie_camera:]() Save that sh*t - Kurt CobAIn (Lil Peep cover)
-
 Audio created using [Tacotron 2](https://github.com/NVIDIA/tacotron2)
