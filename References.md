@@ -8,4 +8,4 @@
 
 [4] Original Tacotron2 notebooks: [training](https://colab.research.google.com/drive/14X73UiywnoL9VS30iPDcX4WXxwZWv2e2#scrollTo=1lP4tdlKEEqU) & [synthesis](https://colab.research.google.com/drive/14X73UiywnoL9VS30iPDcX4WXxwZWv2e2#scrollTo=1lP4tdlKEEqU)
 
-[5] Star Shopping - Lil Peep: [instrumentals](https://www.youtube.com/watch?v=BJ47pVfmIqE&ab_channel=kryptik)
+[5] Star Shopping - Lil Peep: [instrumentals](https://www.youtube.com/watch?v=BJ47pVfmIqE&ab_channel=kryptik) & [vocals](https://www.youtube.com/watch?v=9s4pr-pG0VE&ab_channel=Zapte)
