@@ -10,6 +10,4 @@
 
 [5] Star Shopping - Lil Peep: [instrumental](https://www.youtube.com/watch?v=BJ47pVfmIqE&ab_channel=kryptik) & [vocals](https://www.youtube.com/watch?v=9s4pr-pG0VE&ab_channel=Zapte)
 
-[6] Cover photo: [original](https://soundcloud.com/joel-j01/lil-peep-x-kurt-cobain-savethat-shit) & [tutorial](https://www.youtube.com/watch?v=WrYI_oN50Bw&list=PLdgRczjVRR3pLMjQ1OkGr1q4VUC9ZhzVA&index=5&t=16s&ab_channel=BlueLightningTVPhotoshop)
-
-
+[6] Cover photo: [original](https://soundcloud.com/joel-j01/lil-peep-x-kurt-cobain-savethat-shit) & tutorials ([stars](https://www.youtube.com/watch?v=WrYI_oN50Bw&list=PLdgRczjVRR3pLMjQ1OkGr1q4VUC9ZhzVA&index=5&t=16s&ab_channel=BlueLightningTVPhotoshop) & [neon](https://www.youtube.com/watch?v=ouOUM6LEZ78&ab_channel=BlueLightningTVPhotoshop))
