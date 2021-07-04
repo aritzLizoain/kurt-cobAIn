@@ -8,7 +8,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/aritzLizoain/kurt_cobAIn?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/aritzLizoain/kurt_cobAIn?style=social)
 
-### [:movie_camera:](link) **Kurt reading Lil Peep's "Star Shopping"** <span style="font-size:smaller;">(not available yet)</span>
+### [:movie_camera:](https://youtu.be/Xlt5QGFz0_Q) **Kurt reading Lil Peep's "Star Shopping"**
 
 ### [:sound:](https://www.dropbox.com/s/5axmqn29thgfuxp/Kurt_speaking_20.wav?dl=0) **Kurt speaking** <span style="font-size:smaller;">(trained on **20 samples**)</span>
 
